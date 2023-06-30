@@ -1,0 +1,6 @@
+This favicon was generated using the following font:
+
+- Font Title: Frank Ruhl Libre
+- Font Author: Copyright 2015 The Frank Ruhl Libre Project Authors (https://github.com/fontef/frankruhllibre)
+- Font Source: http://fonts.gstatic.com/s/frankruhllibre/v17/j8_96_fAw7jrcalD7oKYNX0QfAnPcbzNEEB7OoicBw7FYVqQPxR2EUR_.ttf
+- Font License: SIL Open Font License, 1.1 (http://scripts.sil.org/OFL))
